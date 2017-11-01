@@ -6,7 +6,7 @@ public class LZouLib {
 		int sum=0;
 		for(int x=0; x <= range; x++) 
 		{
-			sum = x + 1;
+			sum += x;
 		}
 			System.out.println("The sum from 0 to " + range +" is equals to " + sum);
 	}
