@@ -12,6 +12,7 @@ public class LZouLib {
 	}
 
 	public static void multiplicationTable(int x)
+	
 	{ 		
 		System.out.println("A Multiplication Table For");
 		{
